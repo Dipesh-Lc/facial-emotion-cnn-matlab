@@ -11,6 +11,8 @@ A comprehensive MATLAB pipeline for training and running a convolutional neural 
 3. [Installation](#installation)  
 4. [Data Preparation](#data-preparation)
 5. [Results](#results)
+6. [License](#license)  
+9. [Contact](#contact)
 ---
 
 ## Description
@@ -55,3 +57,6 @@ dataset/
 
 ## Results
 ![Accuracy of the model](Confusion_Matrix.png)
+
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
