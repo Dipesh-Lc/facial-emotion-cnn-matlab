@@ -54,3 +54,4 @@ dataset/
 └── Neutral/
 
 ## Results
+![Accuracy of the model](Confusion_Matrix.png)
