@@ -9,7 +9,8 @@ A comprehensive MATLAB pipeline for training and running a convolutional neural 
 1. [Description](#description)  
 2. [Requirements](#requirements)  
 3. [Installation](#installation)  
-4. [Data Preparation](#data-preparation)  
+4. [Data Preparation](#data-preparation)
+5. [Results](#results)
 ---
 
 ## Description
@@ -38,7 +39,7 @@ The trained model (`emotionCNN10.mat`) is saved for reuse.
 ```bash
 git clone https://github.com/Dipesh-Lc/facial-emotion-cnn-matlab.git
 cd facial-emotion-cnn-matlab
-
+```
 ---
 
 ## Data Preparation
@@ -52,3 +53,4 @@ dataset/
 ├── Surprise/
 └── Neutral/
 
+## Results
